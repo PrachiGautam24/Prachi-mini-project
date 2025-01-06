@@ -1,0 +1,74 @@
+/* Custom Styles */
+/* navbar */
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height:40px ;
+    font-size: 10px;
+    background-color: #FAF7F0;
+ }
+ .brand{
+     font-size: 15px;
+     font-weight:500;
+ }
+ 
+ .navbar input,button{
+     font-size: 10px;
+     height: 25px;
+     background-color:#babf97;
+     border:1px solid black;
+     
+ }
+ .dropdown-menu{
+     font-size: 10px;
+ }
+
+.hero {
+    background-color: #faf1d7;
+    background-size: cover;
+    background-position: center;
+    color: rgb(6, 5, 5);
+    padding: 100px 0;
+    
+}
+/* card */
+.card img {
+    
+    object-fit: cover;
+}
+.card{
+    
+    width: 200px;
+}
+
+.card-body{
+    font-size: 10px;
+}
+.card-body a{
+    font-size: 10px;
+    background-color: #faf1d7;
+    border: 1px solid black;
+    color: black;
+}
+.card-body a:hover{
+    background-color: #B59F78;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+
+.card-body h5{
+    font-size: 15px;
+}
+.card-obj{
+    background-color: #babf97;
+}
+/* footer */
+footer {
+    background-color: #4A4947;
+    color: white;
+    height: 35px;
+}
+
+
